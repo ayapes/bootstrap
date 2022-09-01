@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+    font-size: 10px;
+}
+
+body {
+    font-family: fot-tsukuardgothic-std, sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal;
+}
+
+h1{
+    font-size:200%;
+}
